@@ -1,0 +1,154 @@
+body {
+	background-color: #EEE;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 12px;
+}
+
+h1 {
+	margin: 5px 0px 10px 0px;
+	padding: 0px 0px 0px 10px;
+	font-family: Helvetica, Verdana, sans-serif;
+    background-color: #BBBBBB;
+    border-radius: 5px;
+    background: -webkit-linear-gradient(left, #BBBBBB, #CCCCCC);
+    background: -moz-linear-gradient(left, #BBBBBB, #CCCCCC);
+    background: -ms-linear-gradient(left, #BBBBBB, #CCCCCC);
+    background: -o-linear-gradient(left, #BBBBBB, #CCCCCC);
+}
+
+footer {
+	text-align: center;
+	clear: both;
+	margin: 10px 0px 0px 0px;
+}
+
+footer p {
+  margin: 0px 0px 0px 0px;
+}
+
+button {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+#content {	
+	width: 1280px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #CCC;
+	padding: 1px 5px 5px 5px;
+	border-radius: 5px;
+}
+
+#map {
+	display: block;
+	float: left;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	display: block;
+}
+
+#histogram_buttons {
+	width: 20px;
+	margin: 0px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
+	float: left;
+	height: 630px;
+	position: relative;
+}
+
+#controls {
+	width: 300px;
+	display: block;
+	float: left;
+	margin: 0px 10px 0px 0px;
+	padding: 5px 5px 5px 5px;
+	background-color: #BBB;
+	display: block;
+	border-radius: 5px;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 12px;
+}
+
+#resetBoxes {
+	margin: 0px 10px 10px 10px;
+	padding: 0px 0px 0px 0px;
+}
+
+#keywords {
+	width: 150px;
+	margin: 0px 0px 10px 10px;
+	padding: 0px 10px 10px 10px;
+	border-radius: 5px;
+	background-color: #BBB;
+	display: block;
+	float: right;
+}
+
+#tag_list {
+	margin: 2px 2px 2px 2px;
+	padding: 2px 2px 2px 2px;
+	display: block;
+}
+
+#histogram 
+{
+	background-color: #FFF;
+	border-radius: 5px;
+}
+
+.unclicked_button {
+	color: #9690FF;
+	background-color: #9690FF;
+	border-width: 1px;
+	border-color: #000000;
+	border-top-style: none;
+	width: 20px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 2px 0px 0px;
+	border-radius: 4px;
+	position: absolute;
+}
+
+.unclicked_button:hover {
+	color: #6661C7;
+	background-color: #6661C7;
+}
+
+.clicked_button {
+	color: #5D5A92;
+	background-color: #5D5A92;
+	border: none;
+	border-top-style: none;
+	width: 20px;
+	margin: 1px 0px 0px 0px;
+	padding: 0px 2px 0px 0px;
+	border-radius: 4px;
+	position: absolute;
+}
+
+.clicked_button:hover {
+	color: #6661C7;
+	background-color: #6661C7;
+}
+
+.unclickedKeyword {
+	float: left;
+	display: inline;
+	list-style: none;
+	margin: 2px 2px 2px 2px;
+	padding: 0px 0px 0px 0px;
+	color: #5D5A92;
+	clear: none;
+}
+
+.clickedKeyword {
+	float: left;
+	display: inline;
+	list-style: none;
+	margin: 2px 2px 2px 2px;
+	padding: 0px 0px 0px 0px;
+	color: #B90000;
+	clear: none;
+}

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/nift/!svn/ver/10/trunk/scripts
+END
+data_retriever.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/nift/!svn/ver/10/trunk/scripts/data_retriever.php
+END
+sqlite_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nift/!svn/ver/6/trunk/scripts/sqlite_test.php
+END
+class.stemmer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/nift/!svn/ver/6/trunk/scripts/class.stemmer.inc
+END
+jquery-1.7.1.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/nift/!svn/ver/6/trunk/scripts/jquery-1.7.1.js
+END
+utility.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/nift/!svn/ver/6/trunk/scripts/utility.js
+END
